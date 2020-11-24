@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lovung&count_private=true&show_icons=true">
+
 ### Hi there 👋
 
 <!--
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Golang, Flutter & CI/CD
 - 📫 How to reach me: vulong1602@gmail.com
 - 😄 Pronouns: Mr. Vũ Long
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lovung&count_private=true&show_icons=true">

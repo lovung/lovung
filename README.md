@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lovung&count_private=true&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=lovung&count_private=true&show_icons=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Golang, Flutter & CI/CD
 - 📫 How to reach me: vulong1602@gmail.com
 - 😄 Pronouns: Mr. Vũ Long
-
-<img align='right' src="https://ionicabizau.github.io/github-profile-languages/api.html?lovung">
 
 [![Vu Long's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovung)](https://github.com/anuraghazra/github-readme-stats)

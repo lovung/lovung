@@ -1,6 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lovung&count_private=true&show_icons=true">
-[![Vu Long's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovung)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vu Long's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovung)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vulong1602@gmail.com
 - 😄 Pronouns: Mr. Vũ Long
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?lovung" frameborder="0"></iframe>
+<img align='right' src="https://ionicabizau.github.io/github-profile-languages/api.html?lovung">

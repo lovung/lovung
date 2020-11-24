@@ -1,6 +1,6 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=lovung&count_private=true&show_icons=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovung&hide=javascript,html,c,assembly&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 

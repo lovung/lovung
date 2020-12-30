@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr. Vũ Long
 
 [![Vu Long's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovung)](https://github.com/anuraghazra/github-readme-stats)
+
+## 2021 - TODO
+- [ ] Get the first milestone on [decimal library](https://github.com/lovung/decimal)
+- [ ] Start a new Open Source project on Real-Time or HTTP3/QUIC or High traffic (Golang)
+- [ ] Start a new Open Source project (Flutter)
+- [ ] Start a new Private Mobile App with Flutter and Golang
+- [ ] Complete the template projects: Clean Architecture on [Golang](https://github.com/lovung/GoCleanArchitecture)
+- [ ] Complete the template projects: Clean Architecture on Flutter
+- [ ] Complete the personal website: integrate with github. Create a blog post by create a PR
+- [ ] Read 10 books
+- [ ] Become a leader

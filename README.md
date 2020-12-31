@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 [![Vu Long's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovung)](https://github.com/anuraghazra/github-readme-stats)
 
+# Check it out [my WIKI](https://github.com/lovung/lovung/wiki)
+
 ## 2021 - TODO
 - [ ] Get the first milestone on [decimal library](https://github.com/lovung/decimal)
 - [ ] Start a new Open Source project on Real-Time or HTTP3/QUIC or High traffic (Golang)

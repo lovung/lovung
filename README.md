@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr. Vũ Long
 - 👋 Visit my [Website](https://me.vulong.dev) and [Blog](https://blog.vulong.dev) 
 
-[![Vu Long's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovung)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Leetcode stats
 ![Rank](https://badges.peiyuan.ch/leetcode/lovung/ranking?logo=leetcode&label=lovung&color=green)
 ![All](https://badges.peiyuan.ch/leetcode/lovung/solved)
